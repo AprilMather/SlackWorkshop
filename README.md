@@ -1,2 +1,2 @@
 # SlackWorkshop
-https://AprilMather.github.io/SlackWorkshop
+https://aprilmather.github.io/SlackWorkshop/
